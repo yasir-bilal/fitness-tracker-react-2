@@ -10,6 +10,7 @@ function App() {
   return (
     <>
     <Switch/>
+      <Dashboard/>
 
       <Route path="/home">
         <Dashboard/>
