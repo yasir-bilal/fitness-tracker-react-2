@@ -5,7 +5,7 @@ import Todaycount from './Todaycount';
 import Compcount from './Compcount';
 import Pendcount from './Pendcount';
 import Summary from './summary/Summary';
-import Addexercise from '../exercise/Addexercise';
+import "../../App.css"
 
 function Dashboard() {
 
