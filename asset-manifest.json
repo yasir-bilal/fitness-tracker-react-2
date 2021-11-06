@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fitness-tracker-react-2/static/css/main.53c89a49.chunk.css",
+    "main.js": "/fitness-tracker-react-2/static/js/main.9967a571.chunk.js",
+    "main.js.map": "/fitness-tracker-react-2/static/js/main.9967a571.chunk.js.map",
+    "runtime-main.js": "/fitness-tracker-react-2/static/js/runtime-main.b27f26ee.js",
+    "runtime-main.js.map": "/fitness-tracker-react-2/static/js/runtime-main.b27f26ee.js.map",
+    "static/js/2.4895cf7e.chunk.js": "/fitness-tracker-react-2/static/js/2.4895cf7e.chunk.js",
+    "static/js/2.4895cf7e.chunk.js.map": "/fitness-tracker-react-2/static/js/2.4895cf7e.chunk.js.map",
+    "static/js/3.4ef0705c.chunk.js": "/fitness-tracker-react-2/static/js/3.4ef0705c.chunk.js",
+    "static/js/3.4ef0705c.chunk.js.map": "/fitness-tracker-react-2/static/js/3.4ef0705c.chunk.js.map",
+    "index.html": "/fitness-tracker-react-2/index.html",
+    "static/css/main.53c89a49.chunk.css.map": "/fitness-tracker-react-2/static/css/main.53c89a49.chunk.css.map",
+    "static/js/2.4895cf7e.chunk.js.LICENSE.txt": "/fitness-tracker-react-2/static/js/2.4895cf7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b27f26ee.js",
+    "static/js/2.4895cf7e.chunk.js",
+    "static/css/main.53c89a49.chunk.css",
+    "static/js/main.9967a571.chunk.js"
+  ]
+}
